@@ -1,0 +1,21 @@
+body{
+    color : #00FFFF;
+    font-family: "Microsoft YaHei", sans-serif;
+    background : #121212
+}
+h1{
+    color : #FF00FF;
+    font-family: "Microsoft YaHei", sans-serif;
+    background : #121212
+}
+p.one{
+    color : #00FFFF;
+    font-family: "Microsoft YaHei", sans-serif;
+    background : #121212
+}
+p.two{
+    color : #FFFF00;
+    font-family: "Microsoft YaHei", sans-serif;
+    background : #121212;
+    font-size: 24px;
+}
